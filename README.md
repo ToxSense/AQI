@@ -1,6 +1,6 @@
 # AQI
 
-The World HEalth Organization (WHO) has been investigating the impacts of different air compositions and their impact on human life for decades, publishing the  Air Quality Guidelines in 1987, and updating them regularly, setting a standard for what a desirable air quality human settlements all over the world should be striving for. 
+The World Health Organization (WHO) has been investigating the impacts of different air compositions and their impact on human life for decades, publishing the  Air Quality Guidelines in 1987, and updating them regularly, setting a standard for what a desirable air quality human settlements all over the world should be striving for. 
 For these studies, the following pollutants are investigated: particulate matter, ozone, nitrogen dioxide and sulfur dioxide, with all appearing under different forms everywhere in the world. 
 AQIs (Air quality Indices) are values used by governmental organizations to quantify and evaluate air quality, making levels of pollution comparable even when the causes of the pollution themselves differ. Still, most of these values differ only slightly from the WHO standards,  showing an overall unified understanding of the air quality problematic.
 
